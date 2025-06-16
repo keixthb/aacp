@@ -1,7 +1,7 @@
 
 # AACP:
 
-This github repository contains the necessary [HFSS](https://www.ansys.com/products/electronics/ansys-hfss) designs for the Lüneberg lens numerical calculations. It is provided as accompaniment to the master's thesis, ["aacp.pdf"](https://github.com/keixthb/aacp/blob/main/aacp.pdf). The thesis depends on [PyEms](https://github.com/matthuszagh/pyems), [NaluCFD](https://github.com/NaluCFD/Nalu) and [Kokkos Kernels](https://github.com/kokkos/kokkos-kernels), among many other open source libraries. 
+This github repository contains the necessary [HFSS](https://www.ansys.com/products/electronics/ansys-hfss) designs for the Lüneberg lens numerical calculations. It is provided as accompaniment to the master's thesis, ["aacp.pdf"](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdigitalrepository.unm.edu%2Fece_etds%2F712&data=05%7C02%7Ckeithhbova%40unm.edu%7C152c158d0b9a4773157908ddace50ec9%7C25aa9830e0f9482b897e1a3b3c855e5c%7C0%7C0%7C638856821989524192%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=d9kI9K%2BxiximyHvMHBN6T0uJ%2BhJ9RlopcBm29xiVsAY%3D&reserved=0). The thesis depends on [PyEms](https://github.com/matthuszagh/pyems), [NaluCFD](https://github.com/NaluCFD/Nalu) and [Kokkos Kernels](https://github.com/kokkos/kokkos-kernels), among many other open source libraries. 
 
 ## Instructions:
 
